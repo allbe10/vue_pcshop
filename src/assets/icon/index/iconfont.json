@@ -1,0 +1,23 @@
+{
+  "id": "1500547",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17050936",
+      "name": "购物车",
+      "font_class": "gouwuche-copy",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "17050931",
+      "name": "用户",
+      "font_class": "user-copy",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    }
+  ]
+}
